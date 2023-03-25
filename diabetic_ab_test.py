@@ -42,7 +42,7 @@ check_df(df)
 
 df.groupby('Outcome').agg({'Age':'mean'})
 
-# there is a difference between mean of age but this difference is meaningful statistically.
+# there is a difference between mean of age but is this difference meaningful statistically ? 
 # Done ab test to explain that .
 
 # Task 2: Set up the Hypothesis.
