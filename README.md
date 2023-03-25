@@ -1,4 +1,4 @@
-# A-B-test-on-Diabetic
+# A/B test on Diabetic
 ## Analysis of the relationship between age and diabetes with a/b test
 
 A/B testing is a statistical method used to compare two versions of a product such as  mobile app, website. The aim is that understand which one performs better than other. 
