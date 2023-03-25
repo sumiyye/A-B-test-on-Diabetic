@@ -1,5 +1,5 @@
 # A-B-test-on-Diabetic
-Analysis of the relationship between age and diabetes with a/b test
+## Analysis of the relationship between age and diabetes with a/b test
 
 A/B Testing 
 
@@ -8,4 +8,4 @@ A/B testing can be used in various ways to evaluate different interventions or t
 
 Shapiro-Wilk test is a statistical test used to determine if a given data set is normally distributed or not. 
 
-Non-parametric Mann-Whitney U test is going to be used in this project because the data in the two groups being compared are not normally distributed and/or have unequal variances.
+Non-parametric Mann-Whitney U test is going to be used in this project because the data in the two groups being compared are not normally distributed.
